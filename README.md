@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domupls
 - 👀 I’m interested in coding, sports, watching animated TV shows and memes (but who isn't right?)
-- 🌱 I have some minor experiece with C, Java and Python.
+- 🌱 I mostly code in Python but I also have some minor experiece with C/C++, Java, SQL and Julia.
 
 <!---
 domupls/domupls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
